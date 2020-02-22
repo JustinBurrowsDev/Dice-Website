@@ -6,7 +6,7 @@ I’m becoming more familiar with JavaScript but I’m not as familiar as I woul
 
 # How Did I Over Come Those Challenges? 
 
-Consistency. by programming consistently I feel myself getting more confident in my choices in logic and more comfortable with the tools needed to get the job done. 
+Consistency. By programming consistently I feel myself getting more confident in my choices in logic and more comfortable with the tools needed to get the job done. 
 
 # What Did I Learn? 
 
