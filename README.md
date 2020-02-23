@@ -14,3 +14,6 @@ Consistency. By programming consistently I feel myself getting more confident in
 * Became more familiar with using JavaScript functions
 * Became more familiar with manipulating the DOM 
 * Became more familiar with using if statements in Java script
+
+
+![Dice Game Screenshot](dicepic.png)
