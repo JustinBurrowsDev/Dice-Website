@@ -11,9 +11,9 @@ The collaboration with my peers I gained a better understanding of how the progr
 ## What Did I Learn? 
 
 * Became more familiar with declaring JavaScript variables
-* Became more familiar with using JavaScript functions
-* Became more familiar with manipulating the DOM 
-* Became more familiar with using if statements in Java script
+* Gain a deeper understanding of JavaScript functions
+* Received more practice with manipulating the DOM 
+* Obtained more knowledge on using if statements in JavaScript
 
 
 ![Dice Game Screenshot](dicepic.png)
