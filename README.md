@@ -1,14 +1,14 @@
 # Dice-Website
 
-# Challenges I Faced? 
+## Challenges I Faced?
 
-I’m becoming more familiar with JavaScript but I’m not as familiar as I would like to be. 
+I had difficulty understanding how to put the randomization of a dice roll into JavaScript.
 
-# How Did I Over Come Those Challenges? 
+## How Did I Over Come Those Challenges? 
 
-Consistency. By programming consistently I feel myself getting more confident in my choices in logic and more comfortable with the tools needed to get the job done. 
+Before I wrote a line of code I wrote out what I wanted to happen step-by-step on a whiteboard. Once I had a general idea of how the program should work I began to take the logic that I wrote out in common english and translated into JavaScript bit by bit. By leveraging platforms like Google, YouTube, MDN docs, Stackoverflow, GitHub, online courses, and reference guides I was able to find the proper JavaScript methods and functions needed to complete the task and I programmed the calculator accordingly.
 
-# What Did I Learn? 
+## What Did I Learn? 
 
 * Became more familiar with declaring JavaScript variables
 * Became more familiar with using JavaScript functions
